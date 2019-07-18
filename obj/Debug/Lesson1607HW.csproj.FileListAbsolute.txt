@@ -1,0 +1,7 @@
+C:\Users\m.sapozhny\Source\repos\Lesson1607HW\1607HW\Lesson1607HW\obj\Debug\Lesson1607HW.csprojAssemblyReference.cache
+C:\Users\m.sapozhny\Source\repos\Lesson1607HW\1607HW\Lesson1607HW\obj\Debug\Lesson1607HW.csproj.CoreCompileInputs.cache
+C:\Users\m.sapozhny\Source\repos\Lesson1607HW\1607HW\Lesson1607HW\bin\Debug\Lesson1607HW.exe.config
+C:\Users\m.sapozhny\Source\repos\Lesson1607HW\1607HW\Lesson1607HW\bin\Debug\Lesson1607HW.exe
+C:\Users\m.sapozhny\Source\repos\Lesson1607HW\1607HW\Lesson1607HW\bin\Debug\Lesson1607HW.pdb
+C:\Users\m.sapozhny\Source\repos\Lesson1607HW\1607HW\Lesson1607HW\obj\Debug\Lesson1607HW.exe
+C:\Users\m.sapozhny\Source\repos\Lesson1607HW\1607HW\Lesson1607HW\obj\Debug\Lesson1607HW.pdb
